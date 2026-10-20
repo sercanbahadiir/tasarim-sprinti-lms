@@ -5,7 +5,7 @@ Bu çalışma; üniversitelerde kullanılan Öğrenme Yönetim Sistemlerindeki (
 
 📄 **Ödev Dokümanı (PDF):** [Dokümantasyonu Görüntüle](./lms_sercan.pdf)
 
-Prototip LMS: https://sites.google.com/view/sercanlms/full-page-embed
+🖥️ **Prototip LMS:** https://sites.google.com/view/sercanlms/full-page-embed
 
 ---
 
