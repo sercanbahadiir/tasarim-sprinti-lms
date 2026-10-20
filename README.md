@@ -3,7 +3,7 @@
 
 Bu çalışma; üniversitelerde kullanılan Öğrenme Yönetim Sistemlerindeki (LMS) kaynaklar ve dosyalar bölümünün yarattığı karmaşayı azaltmak, öğrencilerin bilişsel yükünü hafifletmek amacıyla yürütülmüş bireysel bir tasarım sprinti dokümantasyonudur.
 
-📄 **Ödev Dokümanı (PDF):** [Dokümantasyonu Görüntüle](./LMS_Tasarim_Sprinti_Dokumantasyon.pdf)
+📄 **Ödev Dokümanı (PDF):** [Dokümantasyonu Görüntüle](./lms_sercan.pdf)
 
 ---
 
